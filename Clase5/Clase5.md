@@ -62,3 +62,4 @@ source ~/clase4/bin/activate
 pip install adafruit-circuitpython-dht
 sudo apt install libgpiod2
 ```
+
